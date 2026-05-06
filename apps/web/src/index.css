@@ -5,6 +5,12 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
+  --vextro-bg: #081011;
+  --vextro-panel: rgba(255, 255, 255, 0.055);
+  --vextro-line: rgba(255, 255, 255, 0.11);
+  --vextro-ink: #f4f7f2;
+  --vextro-soft: rgba(244, 247, 242, 0.78);
+  --vextro-muted: rgba(244, 247, 242, 0.48);
   --background: oklch(1 0 0);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
@@ -124,5 +130,11 @@
   }
   html {
     @apply font-sans;
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
   }
 }

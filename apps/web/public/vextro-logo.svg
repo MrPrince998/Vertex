@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">Vextro Logo</title>
+  <desc id="desc">Modern Vextro wordmark with abstract play and flow icon.</desc>
+  <defs>
+    <linearGradient id="g" x1="42" y1="32" x2="142" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M92 22c38 0 68 30 68 68s-30 68-68 68-68-30-68-68 30-68 68-68Zm-1 29c-22 0-39 17-39 39s17 39 39 39c11 0 21-4 28-12l-18-10c-3 2-6 3-10 3-11 0-20-9-20-20s9-20 20-20c4 0 7 1 10 3l18-10c-7-8-17-12-28-12Z"/>
+  <path fill="#fff" d="M105 73c8 5 8 29 0 34L78 91c-4-2-4-8 0-10l27-16Z"/>
+  <path fill="#111827" d="m229 130-46-86h29l25 52 25-52h28l-46 86h-15Zm95 2c-29 0-48-18-48-45 0-26 19-45 46-45 28 0 45 19 45 48v7h-64c3 10 11 15 23 15 9 0 17-3 24-9l13 16c-9 9-22 13-39 13Zm-21-52h38c-2-11-9-17-19-17s-17 6-19 17Zm75 50 32-44-30-42h30l15 23 15-23h29l-30 42 33 44h-31l-18-25-18 25h-28Zm143 2c-22 0-35-12-35-34V66h-15V44h15V22h27v22h24v22h-24v29c0 9 4 13 13 13 4 0 8-1 12-2v22c-5 3-11 4-17 4Zm33-2V44h26v14c6-10 15-16 29-16 3 0 6 0 8 1v25c-4-1-8-2-13-2-15 0-24 8-24 25v39h-27Zm110 2c-28 0-48-19-48-45s20-45 48-45 48 19 48 45-20 45-48 45Zm0-23c13 0 21-9 21-22s-8-22-21-22-21 9-21 22 8 22 21 22Z"/>
+</svg>

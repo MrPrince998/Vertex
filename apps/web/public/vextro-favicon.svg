@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title">
+<title id="title">Vextro Favicon</title>
+
+<defs>
+  <linearGradient id="g" x1="42" y1="32" x2="142" y2="142" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C3AED"/>
+    <stop offset="1" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+
+<rect width="180" height="180" rx="40" fill="#0F172A"/>
+
+<path fill="url(#g)" d="M90 22c38 0 68 30 68 68s-30 68-68 68-68-30-68-68 30-68 68-68Zm-1 29c-22 0-39 17-39 39s17 39 39 39c11 0 21-4 28-12l-18-10c-3 2-6 3-10 3-11 0-20-9-20-20s9-20 20-20c4 0 7 1 10 3l18-10c-7-8-17-12-28-12Z"/>
+<path fill="#fff" d="M104 73c8 5 8 29 0 34L77 91c-4-2-4-8 0-10l27-16Z"/>
+
+</svg>

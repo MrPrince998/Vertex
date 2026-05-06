@@ -17,8 +17,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vextro",
-  description: "Vextro",
+  title: {
+    default: "Vextro",
+    template: "%s | Vextro",
+  },
+  description:
+    "A modern media processing workspace for downloads, conversion, compression, and previews.",
+  metadataBase: new URL("https://vextro.vercel.app"),
+  icons: {
+    icon: "/vextro-favicon.svg",
+    shortcut: "/vextro-favicon.svg",
+    apple: "/vextro-favicon.svg",
+  },
+  openGraph: {
+    title: "Vextro",
+    description:
+      "A modern media processing workspace for downloads, conversion, compression, and previews.",
+    images: ["/vextro-favicon.svg"],
+  },
 };
 
 export default function RootLayout({
