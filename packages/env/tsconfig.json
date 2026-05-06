@@ -1,0 +1,3 @@
+{
+  "extends": "@Vextro/config/tsconfig.base.json"
+}
