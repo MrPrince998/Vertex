@@ -638,7 +638,6 @@ Build:
 - video downloader
 - MP3 converter
 - modern UI
-- queue system
 - progress tracking
 
 ---
@@ -653,19 +652,6 @@ Add:
 - thumbnail extraction
 - batch processing
 
----
-
-## Phase 3
-
-Add:
-
-- accounts
-- cloud sync
-- AI features
-- smart organization
-- advanced dashboard analytics
-
----
 
 # Final Goal
 
