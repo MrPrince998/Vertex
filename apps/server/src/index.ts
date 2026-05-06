@@ -9,7 +9,8 @@ async function bootstrap() {
 
   app.enableCors({
     origin: env.CORS_ORIGIN,
-    methods: ["GET", "POST", "OPTIONS"],
+    methods: ["GET", "POST", "PATCH", "DELETE", "OPTIONS"],
+    exposedHeaders: ["Content-Disposition"],
   });
 
   await app.listen(3000);
